@@ -18,7 +18,6 @@ For a better idea check out the images at the bottom.
 Here is what we will cover
 
 | Week 1  | Introduction and begin building designs with [Figma](https://www.figma.com/) |
-| --- | --- |
 | Week 2 | Implement [Figma](https://www.figma.com/) a webpage using [Vite](https://vitejs.dev/) |
 | Week 3 | Continued [Vite](https://vitejs.dev/) +  deployment and domain purchasing |
 | Week 4 | How to design a web app with [Figma](https://www.figma.com/) |
