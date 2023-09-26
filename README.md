@@ -16,7 +16,8 @@ If you do not want to read that it's a platform where people will be able to rac
 For a better idea check out the images at the bottom.
 
 Here is what we will cover
-
+| Week  | What we are covering |
+| --- | --- |
 | Week 1  | Introduction and begin building designs with [Figma](https://www.figma.com/) |
 | Week 2 | Implement [Figma](https://www.figma.com/) a webpage using [Vite](https://vitejs.dev/) |
 | Week 3 | Continued [Vite](https://vitejs.dev/) +  deployment and domain purchasing |
